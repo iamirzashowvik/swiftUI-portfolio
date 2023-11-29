@@ -13,7 +13,7 @@ It's a map app showing different locations.
 
 # SwiftUIXFirebase
 
-It's a app that use firebase products like Firebase Auth, Firebase FireStore.
+It's a app that use firebase products like Firebase Auth, Firebase FireStore. Also it has video stream & caching features.
 
 <p align="center">
 <img src="SwiftUI_Firebase/home.jpg" width="230"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="SwiftUI_Firebase/Gif.gif" width="226"  >
